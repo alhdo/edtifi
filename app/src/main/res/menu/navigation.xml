@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_today"
+        android:icon="@drawable/ic_today_black_24dp"
+        android:title="@string/title_today" />
+
+    <item
+        android:id="@+id/navigation_edt"
+        android:icon="@drawable/ic_access_time_black_24dp"
+        android:title="@string/title_edt" />
+
+    <item
+        android:id="@+id/navigation_course"
+        android:icon="@drawable/ic_book_black_24dp"
+        android:title="@string/title_course" />
+
+    <item
+        android:id="@+id/navigation_place"
+        android:icon="@drawable/ic_place_black_24dp"
+        android:title="@string/title_place" />
+
+</menu>
