@@ -10,4 +10,6 @@
     <string name="title_edt">Edt</string>
     <string name="title_course">Courses</string>
     <string name="title_place">Places</string>
+    <string name="ia_sma"><![CDATA[IA & SMA]]></string>
+    <string name="search_title">Search</string>
 </resources>
